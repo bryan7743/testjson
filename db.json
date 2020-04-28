@@ -1,0 +1,42 @@
+[
+  {
+    "name": "boom box",
+    "price": "100"
+  },
+  {
+    "name": "monitor",
+    "price": "350"
+  },
+  {
+    "name": "twezzers",
+    "price": "50"
+  },
+  {
+    "name": "washing machine",
+    "price": "3000"
+  },
+  {
+    "name": "lip gloss",
+    "price": "70"
+  },
+  {
+    "name": "thermometer",
+    "price": "450"
+  },
+  {
+    "name": "tissue box",
+    "price": "40"
+  },
+  {
+    "name": "mop",
+    "price": "120"
+  }, 
+  {
+    "name": "pencil",
+    "price": "10"
+  },
+  {
+    "name": "camera",
+    "price": "1200"
+  },   
+]
